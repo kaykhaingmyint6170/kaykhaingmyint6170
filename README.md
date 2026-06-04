@@ -9,7 +9,6 @@ Backend Developer with experience in Laravel, PHP, and RESTful API development.
 - Laravel
 - RESTful APIs
 - MySQL
-- PostgreSQL
 
 ### Frontend
 - Vue.js
