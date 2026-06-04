@@ -1,6 +1,6 @@
 # Hi, I'm Kay Khaing Myint 👋
 
-Backend Developer with experience in Laravel, PHP, and RESTful API development.
+Developer with experience in Laravel, PHP, and RESTful API development.
 
 ## 💻 Skills
 
