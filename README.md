@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ **Kay Khaing Myint**
 
-#### 💼 Full Stack Developer | Laravel & React
+#### 💼 Backend Developer | PHP && Laravel
 
 ---
 
