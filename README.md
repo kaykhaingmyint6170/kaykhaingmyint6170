@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ **Kay Khaing Myint**
 
-#### 💼 Backend Developer | PHP && Laravel
+#### 💼 Backend Developer | PHP & Laravel
 
 ---
 
@@ -38,7 +38,7 @@
 ╠══════════════════════════════════════════════════════════╣
 ║                                                         ║
 ║   👤 Name       : Kay Khaing Myint                      ║
-║   💼 Role       : Full Stack Developer                  ║
+║   💼 Role       : Backend Developer                  ║
 ║   🎓 Education  : Computer Science                      ║
 ║   💡 Passion    : Building web apps that matter         ║
 ║                                                         ║
