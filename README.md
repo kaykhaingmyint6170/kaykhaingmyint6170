@@ -1,6 +1,6 @@
 ---
 
-### 🙋‍♂️ **Kay Khaing Myint**
+### 🙋‍♂️ **Hi, I'm Kay Khaing Myint**
 
 #### 💼 Backend Developer | PHP & Laravel
 
