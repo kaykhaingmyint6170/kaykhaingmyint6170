@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ **Hi, I'm Kay Khaing Myint**
 
-#### 💼 Backend Developer | PHP & Laravel
+#### 💼 Software Engineer | PHP & Laravel | React
 
 ---
 
@@ -38,7 +38,7 @@
 ╠══════════════════════════════════════════════════════════╣
 ║                                                         ║
 ║   👤 Name       : Kay Khaing Myint                      ║
-║   💼 Role       : Backend Developer                  ║
+║   💼 Role       : Software Engineer                  ║
 ║   🎓 Education  : Computer Science                      ║
 ║   💡 Passion    : Building web apps that matter         ║
 ║                                                         ║
